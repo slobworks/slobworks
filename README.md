@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @slobworks
 - 👀 Unless otherwise specified, everything listed in my repositories is considered PUBLIC DOMAIN.
-- 🌱 If you absolutely must use one of those 'open source' licenses with something you'll used from my repositories, the closest equivalent I can think of is the <a href=http://www.wtfpl.net/>WTFPL</a>.
+- 🌱 If you absolutely must use one of those 'open source' licenses with something you'll use from my repositories, I won't stop you.
+-    I recommend <a href=http://www.wtfpl.net/>WTFPL</a> or <a href="https://opensource.org/license/mit">MIT/X</a>.
 - 💞️ Some basic, simple ground rules (as if I could enforce any of them):
 - 📫 - *Don't* contact me through my email please. I treat all unsolicited email communication as spam.
 - 😄 - Constructive criticism is always appreciated, but mindless attempts at being edgy will be thoroughly ridiculed in private.
